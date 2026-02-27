@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "xpython",
+      "display_name": "Python 3.13 (XPython)",
+      "language": "python"
+    },
+    "language_info": {
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "version": "3.13.1"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "id": "aac2f068-bb05-477a-8c7b-5b6b4956fb28",
+      "cell_type": "code",
+      "source": "print(\"Twinke twinke litte star\")\nprint(\"        how i wonder what you are!\")\nprint(\"                up above the world so high\")\nprint(\"                like a diamond in the sky\")\nprint(\"Twinke twinke litte star\")\nprint(\"        how i wonder what you are!\")",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": "Twinke twinke litte star\n        how i wonder what you are!\n                up above the world so high\n                like a diamond in the sky\nTwinke twinke litte star\n        how i wonder what you are!\n"
+        }
+      ],
+      "execution_count": 2
+    },
+    {
+      "id": "8f5909da-f100-442c-996b-932af33a18e1",
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
